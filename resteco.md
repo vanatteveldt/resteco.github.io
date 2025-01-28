@@ -1,4 +1,8 @@
-# The Problem
+# What is ResTeCo?
+
+![ResTeCo project logo](assets/Logo-with-Words-3.png)
+
+## The Problem
 
 Terrorists commit violent attacks to spread messages: they want to be noticed within targeted states, to promote their causes among non-targeted states, and to attract as well as inspire new recruits. Achieving any of these goals requires generating widespread publicity, and because news about terrorist activities is both what citizens need and what terrorists crave, journalists face a challenging dilemma.
 
@@ -12,7 +16,7 @@ The Responsible Terrorism Coverage (ResTeCo) project aims to help journalists co
 - analyzing decades of reporting from around the world to understand what kinds of news coverage terrorists typically get
 - recommending best practices for responsible news organizations to follow that will minimize the usefulness of that coverage for terrorist groups and create societal resilience to terrorist attacks
 
-# The Project
+## The Project
 
 The ResTeCo project brings together three teams of academic experts at the Free University of Amsterdam (Netherlands), the University of Mannheim (Germany), and the University of Illinois at Urbana-Champaign (USA) to analyze and evaluate media coverage of terrorism comparatively over long spans of time and on a global scale. The project is developing new combinations of semantic network analysis, topic modeling, and machine learning classification tools to inform best practices for news coverage of terrorism coverage by analyzing tens of millions of news reports about terrorist activities.
 
@@ -20,16 +24,26 @@ The ResTeCo project aims to develop new knowledge, theories, tools, and data for
 
 This short video provides an overview of what motivates the ResTeCo project and what we aim to achieve.
 
-# The Teams
+<figure class="wp-block-embed-youtube alignwide wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How do journalists responsibly cover terrorism?" width="750" height="422" src="https://www.youtube.com/embed/-0Nin-UGApE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div></figure>
+
+## The Teams
 
 Our project brings together three teams, each contributing distinctive forms of methodological expertise, subject-matter expertise, and news data.
 
+![University of Illinois at Urbana-Champaign](assets/logo_ui.png)
+
 The Illinois team based in the Cline Center for Advanced Social Research at the University of Illinois Urbana-Champaign brings expertise in large scale text-analytics projects, political communication in violent conflicts, and normative analysis of news discourse. Led by Cline Center director Scott Althaus, the Illinois team includes Joseph Bajjalieh, Dan Shalmon, Marc Jungblut (Ludwig Maximilian University of Munich), Pradnyesh Joshi, Yumeng Bu (formerly Cline Center, now at Synchrony), and Subhankar Ghosh (formerly Cline Center, currently NVIDIA). The Cline Center team is analyzing seven decades of terrorism news coverage from the New York Times as well as global news coverage of terrorism from recent years.
+
+![University of Mannheim](assets/logo_mannheim.png)
 
 The Mannheim University team of Hartmut Wessler (faculty lead) and Chung-hong Chan (postdoctoral researcher) has expertise on normative analysis of terrorism coverage and extensive experience in comparative analysis of news discourse across multiple countries and languages. The Mannheim team is analyzing news coverage of terrorism, refugees, and immigrants from six countries spanning the 2015-16 period.
 
-The Free University of Amsterdam team of Wouter van Atteveldt (faculty lead) and Kasper Welbers (assistant professor) specializes in computational linguistics and text analytics methods for semantic network analysis in multiple languages. The Amsterdam team is working with an extensive array of news data including the Guardian newspaper from the United Kingdom and several Dutch newspapers.
+![Vrije Universiteit Amsterdam](assets/logo_vu.png)
 
-# The Funders
+The Vrije Universiteit Amsterdam team of Wouter van Atteveldt (faculty lead) and Kasper Welbers (assistant professor) specializes in computational linguistics and text analytics methods for semantic network analysis in multiple languages. The Amsterdam team is working with an extensive array of news data including the Guardian newspaper from the United Kingdom and several Dutch newspapers.
+
+## The Funders
 
 The Responsible Terrorism Coverage project is funded by the Trans-Atlantic Platform’s 2016 Digging into Data Challenge, with support from the US National Endowment for the Humanities (HJ-253500-17), the Netherlands Organisation for Scientific Research (463-17-004), and the German Research Foundation (WE 2888/7-1). The views, findings, conclusions, or recommendations expressed in the ResTeCo project do not necessarily represent those of the National Endowment for the Humanities, the Netherlands Organisation for Scientific Research, or the German Research Foundation.

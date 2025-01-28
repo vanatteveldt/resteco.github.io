@@ -1,5 +1,7 @@
 # What Terrorism Is (and Is Not)
 
+![Terrorism](assets/terrorism.jpg)
+
 The Responsible Terrorism Coverage (ResTeCo) offers analyses and recommendations are closely tied to a specific definition of terrorism. Journalists and policy makers should understand what exactly we mean when we talk about “terrorism” as a distinctive form of political violence.
 
 The ResTeCo project defines terrorism as a tactic chosen by non-state actors that uses violence to generate publicity in order to achieve political goals by exploiting fear and shaping the perceptions of multiple audiences. This is aligned with widely-used academic definitions of terrorism (e.g., Hoffman 2006) but emphasizes the strategic communication dimensions of terrorist acts.

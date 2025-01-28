@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+a {
+  color: #222;
+}
+a:hover {
+  color: red;
+}
+
 .inner {
   width: 800px;
 }
