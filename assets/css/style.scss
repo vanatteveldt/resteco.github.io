@@ -16,20 +16,12 @@ a:hover {
   padding: 2.5%;
 }
 
-.topmenu {
-  font-size: 18px;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.topmenuitem {
-  flex: auto;
-  white-space: nowrap;
-}
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 /* Style the links inside the navigation bar */
