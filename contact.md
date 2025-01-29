@@ -8,18 +8,21 @@ For media inquiries or general questions about the Responsible Terrorism Project
 
 <p align='center'>
 Dr. Scott Althaus <br/>
-[Director of the Cline Center for Advanced Social Research](https://clinecenter.illinois.edu/people/salthaus)
-**Email**: salthaus@illinois.edu | **Twitter**: @scott_althaus
+<a href="https://clinecenter.illinois.edu/people/salthaus">Director of the Cline Center for Advanced Social Research</a><br/>
+<b>Email</b>: salthaus@illinois.edu | <b>Twitter</b>: @scott_althaus
 </p>
 
 ![University of Mannheim](assets/logo_mannheim.png)
 
-Dr. Chung-hong Chan
-Fellow, Mannheim Center for European Social Research
-Email: chung-hong.chan@mzes.uni-mannheim.de | Twitter: @chainsawriot
+<p align='center'>
+Dr. Chung-hong Chan <br/>
+Fellow, Mannheim Center for European Social Research<br/>
+<b>Email</b>: chung-hong.chan@mzes.uni-mannheim.de | <b>Twitter</b>: @chainsawriot
+</p>
 
 ![Vrije Universiteit Amsterdam](assets/logo_vu.png)
 
-Dr. Kasper Welbers
-Assistant Professor, Faculty of Social Sciences, Department of Communication Science
-Email: k.welbers@vu.nl | Twitter: @Data_is_fijn
+<p align='center'>Dr. Kasper Welbers</p>
+Associate Professor, Department of Communication Science</b>
+<b>Email</b>: k.welbers@vu.nl | <b>Twitter</b>: @Data_is_fijn
+</p>
