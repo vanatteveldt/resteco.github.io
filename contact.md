@@ -22,7 +22,7 @@ Fellow, Mannheim Center for European Social Research<br/>
 
 ![Vrije Universiteit Amsterdam](assets/logo_vu.png)
 
-<p align='center'>Dr. Kasper Welbers</p>
-Associate Professor, Department of Communication Science</b>
+<p align='center'>Dr. Kasper Welbers<br/>
+Associate Professor, Department of Communication Science<br/>
 <b>Email</b>: k.welbers@vu.nl | <b>Twitter</b>: @Data_is_fijn
 </p>

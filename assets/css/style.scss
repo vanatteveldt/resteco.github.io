@@ -18,4 +18,9 @@ a:hover {
 
 .topmenu {
   font-size: 18px;
+  display: flex;
+}
+
+.topmenuitem {
+  flex: auto;
 }
