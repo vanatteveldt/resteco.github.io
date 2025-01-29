@@ -20,12 +20,15 @@
 
         <header>
           <h1><a href="index.html">{{ site.title  }}</a></h1>
-          <div class="topmenu">
-            <div class="topmenuitem"><a href="resteco.html">What is ResTeCo?</a></div>
-            <div class="topmenuitem"><a href="what-is-terrorism.html">What is Terrorism?</a></div>
-            <div class="topmenuitem"><a href="what-terrorists-want.html">What Terrorists Want</a></div>
-            <div class="topmenuitem"><a href="responsible-coverage.html">Responsible Terrorism Coverage</a></div>
-            <div class="topmenuitem"><a href="contact.html">Contact</a></div>
+          <div class="topmenu" id="topnav">
+            <a href="resteco.html">What is ResTeCo?</a>
+            <a href="what-is-terrorism.html">What is Terrorism?</a>
+            <a href="what-terrorists-want.html">What Terrorists Want</a>
+            <a href="responsible-coverage.html">Responsible Terrorism Coverage</a>
+            <a href="contact.html">Contact</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              MENU
+            </a>
           </div>
         </header>
         <section id="downloads" class="clearfix">
@@ -56,4 +59,15 @@
       </div>
     </div>
   </body>
+  <script>
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+  </script>
 </html>
