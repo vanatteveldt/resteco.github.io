@@ -1,4 +1,7 @@
-# Data and Code
+---
+permalink: /data-and-code
+title: "Data and Code"
+---
 
 ## Code
 
