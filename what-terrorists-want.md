@@ -1,4 +1,7 @@
-# What Terrorists Want from News Coverage
+---
+permalink: /what-terrorists-want
+title: "What Terrorists Want from News Coverage"
+---
 
 ![ResTeCo project logo](assets/Logo-with-Words-3.png)
 

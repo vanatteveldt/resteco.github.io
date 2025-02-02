@@ -1,4 +1,7 @@
-# Contact ResTeCo
+---
+permalink: /data-and-code
+title: "Contact ResTeCo"
+---
 
 ![ResTeCo project logo](assets/Logo-with-Words-3.png)
 

@@ -1,4 +1,7 @@
-# What Terrorism Is (and Is Not)
+---
+permalink: /what-is-terrorism
+title: "What Terrorism Is (and Is Not)"
+---
 
 ![Terrorism](assets/terrorism.jpg)
 

@@ -1,4 +1,7 @@
-# Publications, Presentations, and Multimedia
+---
+permalink: /publications
+title: "Publications, Presentations, and Multimedia"
+---
 
 ![Digging into Data](assets/did2.png)
 

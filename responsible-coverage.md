@@ -1,4 +1,7 @@
-# What Responsible Terrorism Coverage Looks Like
+---
+permalink: /responsible-coverage
+title: "What Responsible Terrorism Coverage Looks Like"
+---
 
 ## The Responsible Terrorism Coverage project aims to help journalists provide citizens the information they need without giving terrorists the attention they want.
 

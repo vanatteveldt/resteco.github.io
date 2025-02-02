@@ -1,4 +1,7 @@
-## Helping journalists provide the information citizens need without giving terrorists the attention they want.
+---
+permalink: /
+title: "Helping journalists provide the information citizens need without giving terrorists the attention they want"
+---
 
 ![ResTeCo project logo](assets/Logo-with-Words-3.png)
 
