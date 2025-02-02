@@ -1,5 +1,5 @@
 ---
-permalink: /data-and-code
+permalink: /contact
 title: "Contact ResTeCo"
 ---
 
