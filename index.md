@@ -1,5 +1,5 @@
 ---
-permalink: /resteco
+permalink: /
 title: "Helping journalists provide the information citizens need without giving terrorists the attention they want"
 ---
 
